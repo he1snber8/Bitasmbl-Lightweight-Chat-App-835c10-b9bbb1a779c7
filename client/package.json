@@ -1,0 +1,12 @@
+{
+ "name":"lightweight-chat-client",
+ "main":"src/index.jsx",
+ "scripts":{
+  "start":"webpack serve"
+ },
+ "dependencies":{
+  "react":"^18.0.0",
+  "react-dom":"^18.0.0",
+  "socket.io-client":"^4.8.0"
+ }
+}
